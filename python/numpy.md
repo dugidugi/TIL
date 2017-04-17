@@ -12,13 +12,13 @@
 
 ## 데이터형
 
-	int : 정수
-	float : 실수
-	complex : 복소수
-	bool : 불리언 
-	object 
-	string_
-	unicode_ : 유니코드 문자열 
+> int : 정수
+> float : 실수
+> complex : 복소수
+> bool : 불리언 
+> object 
+> string_
+> unicode_ : 유니코드 문자열 
 
 ## Array 인덱싱 이해하기
 
@@ -40,6 +40,6 @@
 	#or 조건을 넣어서 인덱싱
 
 
-	
+
 
 
