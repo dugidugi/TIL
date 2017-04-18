@@ -3,18 +3,17 @@
 일단 먼저 파이썬 및 ipython을 설치해주고
 
 
+	? : 변수, 함수 설명보기. 데이터유형. 문법보기
 
-? : 변수, 함수 설명보기. 데이터유형. 문법보기
+	clear : 화면 밀어버림
 
-clear : 화면 밀어버림
+	%who : 만든 변수들 보기
 
-%who : 만든 변수들 보기
+	del : 변수 삭제
 
-del : 변수 삭제
+	%reset : 모든 변수, 함수 삭제
 
-%reset : 모든 변수, 함수 삭제
-
-%time : 계산하는데 걸리는 시간 측정하기
+	%time : 계산하는데 걸리는 시간 측정하기
 
 매직 명령어들 더 찾아보자 
 
@@ -33,3 +32,6 @@ restart kernel & clear output
 터미널에서 
 ctrl + C : ipython 종료
 
+
+	.shape : 데이터 형태 보기
+	.dtype : data type 살펴보기
