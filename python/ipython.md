@@ -32,6 +32,6 @@ restart kernel & clear output
 터미널에서 
 ctrl + C : ipython 종료
 
-
+ㄴ
 	.shape : 데이터 형태 보기
 	.dtype : data type 살펴보기
