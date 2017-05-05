@@ -1,0 +1,9 @@
+str(숫자) : 숫자를 string으로 바꿔줌
+
+\t : string에서 탭 넣기 
+\n : string에서 엔터 넣기
+
+이렇게 쓴다
+
+	print("잼잼\t잼잼")
+	print("잼잼\n\t잼잼")
