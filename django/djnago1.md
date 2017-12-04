@@ -1,6 +1,6 @@
 # 장고첫앱 - 장고와 MTV
 
-##MTV
+## MTV
 - 순서 : HTTP -> urls -> View -> Template 이랑 Model로 각각 -> View -> HTTP 
 - 주의) MVC의 View는 장고의 View와 다른 역할.
 
