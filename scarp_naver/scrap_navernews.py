@@ -6,8 +6,7 @@ import requests
 import datetime
 
 
-### 리컬션으로 날짜 목록 만들기
-
+##### 리컬션으로 날짜 목록 만들기
 start_date = datetime.date(2017, 3, 1)
 end_date = datetime.date(2017,3,20)
 
@@ -22,11 +21,10 @@ def countdate(start_date):
 		countdate(start_date + datetime.timedelta(days=1))
 
 countdate(start_date)
-
 print(dates)
 
-###
 
+#####
 for date in dates:
 	url = 'http://news.naver.com/main/history/mainnews/index.nhn?date=' + str(date) + '&time=21:00'
 
